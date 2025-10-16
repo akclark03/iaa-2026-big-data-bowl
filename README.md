@@ -38,7 +38,6 @@ iaa-2026-big-data-bowl/
 ├── tests/                    # Unit and integration tests
 ├── environment.yml           # Conda environment specification
 ├── requirements.txt          # List of dependencies
-├── setup.py                  # Package configuration for pip install -e .
 ├── README.md                 # Project overview, setup, and team info
 ├── LICENSE                   # License file
 └── .gitignore                # Exclude data, cache, and environment files from Git
