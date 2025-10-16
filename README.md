@@ -101,9 +101,10 @@ for the University Track of the NFL Big Data Bowl 2026 competition.
 |------|------|------------------|
 | Andrew Clark | TBD| TBA |
 | Troy Hall | TBD | TBA |
-| Tavis Propst | TBD | TBA |
+| Travis Propst | TBD | TBA |
 | Zachary Richardson | TBD | TBA |
 
 ---
 
-© 2025 Andrew Clark, Troy Hall, Travis Propst, Zachary Richardson
+Copyright © 2025 Institute for Advanced Analytics Big Data Bowl Team
+(Andrew Clark, Troy Hall, Travis Propst, Zachary Richardson)
